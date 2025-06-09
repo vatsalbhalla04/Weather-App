@@ -27,7 +27,7 @@ export function Header(){
             }}> {isDark ? (
                 <Moon className="h-6 w-6 text-white rotate-0 transition-all"/>
             ):(
-                <Sun className="h-6 w-6 text-blue-500 rotate-0 transition-all"/>
+                <Sun className="h-6 w-6 text-yellow-500 rotate-0 transition-all"/>
             )}
             </div>
           </div>
